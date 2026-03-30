@@ -1,7 +1,7 @@
 {
-    "name": "moirei/laravel-google-merchant-api",
+    "name": "oseimensah/laravel-google-merchant-api",
     "description": "Laravel Google Merchant Products API for Google Shopping.",
-    "homepage": "https://github.com/augustusnaz/laravel-google-merchant-api",
+    "homepage": "https://github.com/oseimensah/laravel-google-merchant-api",
     "license": "MIT",
     "authors": [
         {
@@ -18,9 +18,9 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "illuminate/support": "~5.0|^6.0|^7.0|^8.0|^9.0",
-        "illuminate/cache": "~5.0|^6.0|^7.0|^8.0|^9.0",
-        "guzzlehttp/guzzle":"~5.3|^6.5|^7.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
+        "illuminate/cache": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0",
+        "guzzlehttp/guzzle":"^7.0|^8.0",
         "google/apiclient": "^2.4"
     },
     "autoload": {
